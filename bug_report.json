@@ -1,0 +1,9 @@
+{ "id":"1",
+  "title":"The page doesn't open when clicking on the 'information for customers' button",
+  "precondition":"Open the main page",
+  "steps-to-reproduce":"1. Find button 'Information for customers', 2. Click the button",
+  "actual results":"the page doesn't open",
+  "expected results":"opening 'information for customers',
+  "environments":"chrome v.107.0.5304.88",
+  "attachments":"link"
+}
